@@ -1,0 +1,5 @@
+<LOGIC>
+The logs from different modules are given to the AI module.
+These logs will be containing the input and output for the AI training.
+These logs are used to create the 5 variables by AI module.
+Than these variables can be used by different modules for different purposes.
