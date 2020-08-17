@@ -1,0 +1,13 @@
+<LOGIC>
+
+
+1. Take input logs from different module and feed it to AI module as input to AI.
+2. Train an initial appropriate model(Deep Neural Network) using the inputs(from the other modules) and outputs(from the other modules).
+3. After the initial training, adjust the hyperparameters keeping in mind the variance - bias trade off and the overall accuracy of the model.
+4. Construct the final model using the data and the desired hyperparameters.
+5. Validate the result on new data.
+6. Deploy the model.
+7. Keep adjustijng the hyperparameters after the deployment.
+
+
+</LOGIC>
