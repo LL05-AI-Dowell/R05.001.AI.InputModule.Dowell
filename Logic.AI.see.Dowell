@@ -1,0 +1,15 @@
+<LOGIC>
+The logs or data from different modules is given to AI module as input.
+
+The AI will get the different images or videos from the data from different modules.
+Than the data is given to the deep nueral network and AI will get trained on it.
+There are build in functions in the AI module(deep neural network),
+Which can read or detect the features in the images(art, natural photo, animated) and videos(animated, natural),
+Like:- object detection(Living :- humans(age,gender), animals(land based, marine based ,species), trees), 
+color detection(grey scale, RGB),
+filter detection(filtered photo),
+visuals(charts, graphs, ),
+text detection(Hand written, typed one, language) and etc.  
+The hyperparameters will get change over the training period so the AI can achieve best accuracy.
+
+</LOGIC>
