@@ -1,5 +1,17 @@
 <LOGIC>
+The logs or data from different modules is given to AI module as input.
 
-
-
+The AI will get the different audios or videos from the data from different modules.
+Than the data is given to the deep nueral network and AI will get trained on it.
+There are build in functions in the AI module(deep neural network),
+Which can hear or detect the features in the 
+Human voices (Gender, Age, Celebrity Voices)
+Animal voices (Dangerous, Breed , Species)
+Non living objects  Voices (Car, Alarms, Ring tones, Songs ..)
+Natural voices (Rain, Sea, water... )
+Languages Dialect 
+Speech to Text Conversation
+Noise detection and removal & Silence
+Music (Genre, Song, Instrument, Treble, Bass) 
+The hyperparameters will get change over the training period so the AI can achieve best accuracy.
 </LOGIC>
