@@ -13,5 +13,5 @@ Filter detection(Filtered photo or not / what filters are used),
 Visuals(Charts, Graphs, Logos, Signs),
 Text detection(Hand written, Typed one, Language, Alphabets, Numbers) and etc.  
 The hyperparameters will get change over the training period so the AI can achieve best accuracy.
-
+Emotion Detection 
 </LOGIC>
