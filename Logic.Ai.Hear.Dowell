@@ -9,9 +9,10 @@ Human voices (Gender, Age, Celebrity Voices)
 Animal voices (Dangerous, Breed , Species)
 Non living objects  Voices (Car, Alarms, Ring tones, Songs ..)
 Natural voices (Rain, Sea, water... )
-Languages Dialect 
+Languages Dialect Accents
 Speech to Text Conversation
 Noise detection and removal & Silence
 Music (Genre, Song, Instrument, Treble, Bass) 
+Emotion Detection 
 The hyperparameters will get change over the training period so the AI can achieve best accuracy.
 </LOGIC>
