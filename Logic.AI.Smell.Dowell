@@ -1,0 +1,6 @@
+<LOGIC>
+The logs or data from different modules is given to AI module as input.
+
+We have to use physical sensors, that will identify the chemical composition of the smell that is being given as input.
+Based on the chemicals detected, the smell can be determined by the AI
+</LOGIC>
